@@ -1,0 +1,7 @@
+.product-baner button {
+    background-color:deeppink;
+    position: absolute;
+    font-size: 45px;
+    top:50%;
+    left: 20%;
+}
